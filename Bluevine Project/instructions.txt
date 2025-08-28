@@ -1,0 +1,10 @@
+How to run the code:
+1. To run the code, use the command:
+   python solution.py
+   Upload the `isbn.txt` file with the ISBNs to the main directory of the repository.
+2. Make sure to have the required libraries installed by running:
+   pip install pandas requests
+3. The code will execute all the questions in the file and log all the information.
+   The logger will print the output to the screen and save the results to a text file named `answers.txt`.
+   Additionally, if there are any exceptions, they will be logged both on the screen and in the `answers.txt` file.
+   For reference, there is already a file named `answers.txt` in the directory showing how the results will appear.
